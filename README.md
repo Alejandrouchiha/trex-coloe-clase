@@ -1,1 +1,1 @@
-# trex-coloe-clase
+# Juegos-compatibles-con-dispositivos
